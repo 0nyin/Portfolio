@@ -32,7 +32,7 @@ function Work() {
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/0nyin/wallet-web/tree/main/src'>
+                <a href='https://github.com/0nyin/wallet-web/tree/main/src' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
