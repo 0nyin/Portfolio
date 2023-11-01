@@ -4,6 +4,7 @@ import galitech from '../assets/galitech.png'
 import van from '../assets/van.png'
 import pay from '../assets/pay.png'
 import color from '../assets/color.png'
+import airbnb from '../assets/air.png'
 
 function Work() {
   return (
@@ -16,7 +17,7 @@ function Work() {
         </div>
 
         {/* container */}
-        <div className='grid sm:grid-cols-2  md:grid-cols-3 gap-4'>
+        <div className='grid sm:grid-cols-2  md:grid-cols-3 gap-6'>
 
           {/* grid items */}
           <div style={{backgroundImage: `url(${wallet})`}} 
@@ -106,14 +107,14 @@ function Work() {
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='/#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
             </div>
           </div>
 
-          <div style={{backgroundImage: `url(${galitech})`}} 
+          <div style={{backgroundImage: `url(${airbnb})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* hover effect */}

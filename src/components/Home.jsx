@@ -10,8 +10,7 @@ function Home() {
         <p className='text-pink-600'>Hi, my name is</p>
         <h1 className='text-4xl sm:-7xl font-bold text-[#ccd6f6]'>Onyinye Anyalewechi</h1>
         <h2 className='text-4xl sm:-7xl font-bold text-[#8892b0]'>I'am a Frontend Developer</h2>
-        <p className='text-[#8892b0] py-4 max-w-[1700px]'>I'am a frontend developer  specializes in creating the user interface and user experience of a website or web application. 
-          Their primary focus is on the presentation layer of a web project, 
+        <p className='text-[#8892b0] py-4 max-w-[1700px]'>I specializes in creating the user interface and user experience of a website and web application, my primary focus is on the presentation layer of a web project. 
           which is what users see and interact with directly in their web browsers
         </p>
         
