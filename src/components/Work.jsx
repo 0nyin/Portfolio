@@ -83,7 +83,7 @@ function Work() {
             {/* hover effect */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                  React js Application
+                  Wordpress Website
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://notalone.believersconnect.org/' target="_blank">
