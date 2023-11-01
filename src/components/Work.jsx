@@ -86,10 +86,10 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://notalone.believersconnect.org/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/0nyin/Payment-getway-design'>
+                <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
