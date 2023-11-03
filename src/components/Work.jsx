@@ -13,7 +13,7 @@ function Work() {
 
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'> Work </p>
-          <p className='py-6'> //Check out some of my recent work</p>
+          <p className='py-6'>Check out some of my recent work</p>
         </div>
 
         {/* container */}
@@ -29,7 +29,7 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://fascinating-pudding-5bb4c0.netlify.app/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href='https://github.com/0nyin/wallet-web/tree/main/src' target="_blank">
@@ -67,7 +67,7 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href='https://github.com/0nyin/Router-project' target="_blank">
@@ -104,10 +104,10 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/#'>
+                <a href='#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
@@ -123,10 +123,10 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='/#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='/#'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
