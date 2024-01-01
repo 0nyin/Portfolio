@@ -3,7 +3,7 @@ import wallet from '../assets/wallet.png'
 import galitech from '../assets/galitech.png'
 import pay from '../assets/pay.png'
 import van from '../assets/van.png'
-import color from '../assets/color.png'
+import color from '../assets/cap.png'
 import airbnb from '../assets/air.png'
 
 function Work() {
