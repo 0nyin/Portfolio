@@ -1,6 +1,6 @@
 import React from 'react'
 import wallet from '../assets/wallet.png'
-import galitech from '../assets/galitech.png'
+import msoft from '../assets/msoft.jpg'
 import pay from '../assets/pay.png'
 import van from '../assets/van.png'
 import color from '../assets/cap.png'
@@ -39,7 +39,7 @@ function Work() {
             </div>
           </div>
 
-          <div style={{backgroundImage: `url(${galitech})`}} 
+          <div style={{backgroundImage: `url(${msoft})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* hover effect */}
@@ -48,12 +48,12 @@ function Work() {
                   React js Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://galitech-web.vercel.app' target="_blank">
+                <a href='https://msoft.mitiget.com.ng/' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='https://github.com/0nyin/Galitech-web' target="_blank">
+                {/* <a href='https://github.com/0nyin/Galitech-web' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
