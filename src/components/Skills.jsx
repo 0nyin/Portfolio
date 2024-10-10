@@ -6,6 +6,7 @@ import react from '../assets/react.png'
 import tailwind from '../assets/tailwind.png'
 import node from '../assets/node.png'
 import wordpress from '../assets/wordpress.png'
+import php from '../assets/php.svg'
 import github from '../assets/github.png'
 
 
@@ -23,10 +24,10 @@ function Skills() {
                     <img className='w-20 mx-auto' src={html} alt='HTML icon' />
                     <p className='my-4'>HTML</p>
                 </div>
-                <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500'>
+                {/* <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500'>
                     <img className='w-20 mx-auto' src={css} alt=' CSS icon' />
                     <p className='my-4'> CSS</p>
-                </div>
+                </div> */}
                 <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500'>
                     <img className='w-20 mx-auto' src={javacript} alt='Javascript icon' />
                     <p className='my-4'>JAVASCRIPT</p>
@@ -46,6 +47,10 @@ function Skills() {
                 <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500'>
                     <img className='w-20 mx-auto' src={wordpress} alt='Wordpress icon' />
                     <p className='my-4'>WORDPRESS</p>
+                </div>
+                <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500 '>
+                    <img className='w-20 mx-auto mt-7' src={php} alt='PHP icon' />
+                    <p className='my-4'>PHP</p>
                 </div>
                 <div className='shadow-md shadow-[#240c16] hover:scale-110 duration 500'>
                     <img className='w-20 mx-auto' src={github} alt='github icon' />
