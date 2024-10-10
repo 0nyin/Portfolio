@@ -5,6 +5,11 @@ import pay from '../assets/pay.png'
 import gali from '../assets/galitech.jpg'
 import mitiget from '../assets/mitiget.jpg'
 import aac from '../assets/aac.jpg'
+import paymejo from '../assets/paymejo.jpg'
+import fitravel from '../assets/fitravel.jpg'
+import mla from '../assets/mla.jpg'
+
+
 
 function Work() {
   return (
@@ -30,7 +35,7 @@ function Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://cla-six.vercel.app/' target="_blank">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
                 {/* <a href='https://github.com/0nyin/wallet-web/tree/main/src' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -49,7 +54,7 @@ function Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://msoft.mitiget.com.ng/' target="_blank">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
                 {/* <a href='https://github.com/0nyin/Galitech-web' target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -68,7 +73,7 @@ function Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://notalone.believersconnect.org/' target="_blank">
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
                 <a href='/'>
                   {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
@@ -87,13 +92,13 @@ function Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://galitechit.com/' target="_blank">
-                  
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                
                 <a href='https://github.com/0nyin/Router-project' target="_blank">
                   
                 </a>
-                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
               </div>
             </div>
           </div>
@@ -109,11 +114,12 @@ function Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://mitiget.com.ng/' target="_blank">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                
                 <a href='/#'>
                 </a>
-                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
               </div>
             </div>
           </div>
@@ -124,17 +130,78 @@ function Work() {
             {/* hover effect */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                  React js Application
+                  {/* React js Application */}
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://aacprofessionals.com/' target="_blank">
-                  
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
-                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                
                 <a href='/#'>
           
                 </a>
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+              </div>
+            </div>
+            
+          </div>
+
+          <div style={{backgroundImage: `url(${paymejo})`}} 
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+            {/* hover effect */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                  {/* React js Application */}
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://app.paymejor.com.ng/' target="_blank">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+                </a>
+                
+                <a href='/#'>
+                </a>
+                {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
+              </div>
+            </div>
+          </div>
+
+          <div style={{backgroundImage: `url(${fitravel})`}} 
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+            {/* hover effect */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                  {/* React js Application */}
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://fitravel.com.ng/' target="_blank">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+                </a>
+                
+                <a href='/#'>
+                </a>
+                {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
+              </div>
+            </div>
+          </div>
+
+          <div style={{backgroundImage: `url(${mla})`}} 
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+            {/* hover effect */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold text-white tracking-wider'>
+                  {/* React js Application */}
+              </span>
+              <div className='pt-8 text-center'>
+                <a href='https://mla.mitiget.com/' target="_blank">
+                <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                </a>
+                
+                <a href='/#'>
+                </a>
+                {/* <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button> */}
               </div>
             </div>
           </div>
