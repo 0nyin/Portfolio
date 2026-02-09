@@ -3,10 +3,10 @@ import mclarion from '../assets/mcla.jpg'
 import msoft from '../assets/msoft.jpg'
 import pay from '../assets/pay.png'
 import gali from '../assets/galitech.jpg'
-import mitiget from '../assets/mitiget.jpg'
+import bridgetstore from '../assets/bridgetstore.png'
 import aac from '../assets/aac.jpg'
 import paymejo from '../assets/paymejo.jpg'
-import fitravel from '../assets/fitravel.jpg'
+import dazzlingboss from '../assets/dazzling.png'
 import mla from '../assets/mla.jpg'
 
 
@@ -104,7 +104,7 @@ function Work() {
           </div>
 
           
-          <div style={{backgroundImage: `url(${mitiget})`}} 
+          <div style={{backgroundImage: `url(${bridgetstore})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* hover effect */}
@@ -113,7 +113,7 @@ function Work() {
                   {/* React js Application */}
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://mitiget.com.ng/' target="_blank">
+                <a href='https://bridgetstore.com/' target="_blank">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
                 
@@ -166,7 +166,7 @@ function Work() {
             </div>
           </div>
 
-          <div style={{backgroundImage: `url(${fitravel})`}} 
+          <div style={{backgroundImage: `url(${dazzlingboss})`}} 
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* hover effect */}
@@ -175,7 +175,7 @@ function Work() {
                   {/* React js Application */}
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://fitravel.com.ng/' target="_blank">
+                <a href='https://dazzlingboss.com/' target="_blank">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                 </a>
                 
